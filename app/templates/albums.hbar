@@ -1,8 +1,8 @@
 <div class="list-group">
 {{#albums}}
-    <a href="{{album}}" class="list-group-item">
-        <button class="btn btn-success">Spela</button>
+    <a href="{{album}}" class="clearfix list-group-item">
         {{artist}}
+        <button class="pull-right btn btn-success">Spela</button>
     </a>
 {{/albums}}
 </div>
