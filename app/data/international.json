@@ -1,0 +1,44 @@
+{
+    "albums" : [
+        {
+            "artist": "Daft Punk - Random access memories",
+            "album": "spotify:album:4m2880jivSbbyEGAKfITCa"
+        },
+        {
+            "artist": "Matthew E White - Big inner",
+            "album": "spotify:album:0wScykhzDhFe1Karbp06zR"
+        },
+        {
+            "artist": "Arcade Fire - Reflektor",
+            "album": "spotify:album:37xl28qGX45H01dsex3nUx"
+        },
+        {
+            "artist": "Blood Orange - Cupid deluxe",
+            "album": "spotify:album:3KIRi1cU8yt3w7xhmiyehM"
+        },
+        {
+            "artist": "Phosphorescent - Muchacho",
+            "album": "spotify:album:2he3CA9Gg1XLCsBiMAaXiz"
+        },
+        {
+            "artist": "Prefab Sprout - Crimson/red",
+            "album": "spotify:album:5huiRnb0r4WmT9KnvYjd9i"
+        },
+        {
+            "artist": "Nick Cave & The Bad Seeds - Push the sky away",
+            "album": "spotify:album:6Yl951bwCSY70QjvLm1AEG"
+        },
+        {
+            "artist": "Haim - Days are gone",
+            "album": "spotify:album:7CzrzGbCwqT8Y43tvIUPBX"
+        },
+        {
+            "artist": "King Krule - 6 feet beneath the moon",
+            "album": "spotify:album:6DAL46eCFRxgj624atbOYY"
+        },
+        {
+            "artist": "Kurt Vile - Wakin on a pretty daze",
+            "album": "spotify:album:2imxOfDIDk2voAYCZP88u2"
+        }
+    ]
+}

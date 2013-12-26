@@ -1,0 +1,19 @@
+{
+  "name": "top-albums",
+  "version": "0.0.1",
+  "description": "A list of Swedish and Int'l top 10 albums of '13",
+  "main": "app/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-connect": "~0.5.0",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-usemin": "~2.0.2",
+    "grunt-jsmin-sourcemap": "~1.10.0",
+    "grunt-contrib-clean": "~0.5.0"
+  }
+}
