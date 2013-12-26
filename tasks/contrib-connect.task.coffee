@@ -9,6 +9,7 @@ module.exports = (grunt) ->
           '.tmp'
         ]
         port: 1337
-        keepalive: true
+        keepalive: false
+        livereload: true
 
   grunt.config 'connect', config
